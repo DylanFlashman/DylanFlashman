@@ -1,89 +1,71 @@
-
 <div align="center">
 
-# Hey, I'm Dylan 👋
+<img src="./assets/profile-banner.svg" alt="Dylan Flashman — Software Developer" width="100%" />
 
-### Software Developer | Full-Stack & Desktop Applications
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Developer;C%23+%26+.NET+Developer;Full-Stack+Development;Building+Real-World+Solutions" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=C%23+%2F+.NET+%2F+WPF;React+%2F+Next.js+%2F+TypeScript;Building+useful+tools+and+full-stack+products" alt="Animated introduction" />
 
-<br/>
+**Software Developer · Full-Stack & Desktop Applications · South Africa**
 
-Building software that solves real problems.
+[![GitHub followers](https://img.shields.io/github/followers/DylanFlashman?style=flat-square&logo=github&label=Followers&color=0ea5e9)](https://github.com/DylanFlashman?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=DylanFlashman&style=flat-square&color=0ea5e9)](https://github.com/DylanFlashman)
 
 </div>
 
----
+## 👋 About me
 
-## 👨‍💻 About Me
+I'm Dylan, a developer with a background in **Computer Science and Applications Development**. I build desktop engineering tools, industrial automation software, and modern web applications. I enjoy turning complex workflows into dependable, intuitive products.
 
-- 🎓 Background in Computer Science and Applications Development
-- 💻 Working with C#, .NET, WPF and modern web technologies
-- ⚙️ Building automation tools and scalable applications
-- 🚀 Exploring cloud development, AI and financial technology
-- 🌍 Based in South Africa
+- 🔧 **At work:** C#, .NET, WPF, AutoCAD automation and data-driven tooling
+- 🌐 **On the web:** React, Next.js, TypeScript, Node.js and APIs
+- 📚 **Exploring:** Cloud architecture, developer tools, AI and fintech
+- 🧠 **Interested in:** Well-designed systems, automation and practical engineering
 
----
-
-## 🛠️ Tech Stack
+## 🧰 Toolbox
 
 <div align="center">
 
-### Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=cs,ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=cs,ts,js,html,css&theme=dark" alt="C sharp, TypeScript, JavaScript, HTML and CSS" />
 
-### Frameworks & Technologies
+**Applications & frameworks**
 
-<img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,express&theme=dark" alt=".NET, React, Next.js, Node.js and Express" />
 
-### Databases & Tools
+**Data & development tools**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,supabase,git,github,docker,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,supabase,git,github,docker,vscode,visualstudio&theme=dark" alt="Databases, cloud tools and development tooling" />
 
 </div>
 
----
+## 🚀 What I'm building
 
-## 🚀 Featured Projects
+| Project | Focus | Status |
+| :--- | :--- | :--- |
+| **Signal** | Investment portfolio tracking and analytics · Next.js, TypeScript, Supabase | 🛠️ In development |
+| **KreskoCloud** | Cloud-oriented business management platform · .NET, Next.js, PostgreSQL | 🛠️ In development |
+| **Engineering automation** | Desktop utilities for CAD workflows and industrial data · C#, .NET, WPF, SQLite | 🔒 Private/professional work |
 
-### 📈 Signal
-Investment portfolio analytics and tracking platform.
+> Some projects are private or still evolving. Public repositories and demos will be linked here as they become available. Professional project descriptions do not imply that proprietary source code is published.
 
-**Stack:** Next.js, TypeScript, Supabase, PostgreSQL
+## 📊 GitHub activity
 
-### ☁️ KreskoCloud
-Business management platform with a modern web interface and backend services.
+<div align="center">
 
-**Stack:** .NET, Next.js, PostgreSQL
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanFlashman&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages in public GitHub repositories" />
 
-### ⚙️ Engineering Automation
-Custom tools for CAD automation, industrial workflows and data management.
+</div>
 
-**Stack:** C#, .NET, WPF, SQLite
-
----
-
-## 📊 GitHub Activity
-
-Explore my repositories, contributions and ongoing projects.
-
-<!-- Add a GitHub statistics card here if desired. -->
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
-- 🌐 Portfolio: Coming Soon
+<sub>Language cards reflect available public repositories, not all professional experience. External stat-card hosting may occasionally be unavailable.</sub>
 
 ---
 
 <div align="center">
 
-### 💡 "Build. Learn. Improve. Repeat."
+**Build thoughtfully. Keep learning. Ship useful things.**
 
-Thanks for visiting!
+[Explore my repositories](https://github.com/DylanFlashman?tab=repositories) · [Follow on GitHub](https://github.com/DylanFlashman)
 
 </div>
-
