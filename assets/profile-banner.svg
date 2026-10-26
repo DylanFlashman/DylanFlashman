@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Dylan Flashman developer banner</title><desc id="desc">Navy banner with a cyan glow, code motifs and developer introduction</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081222"/><stop offset="1" stop-color="#142a48"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#3b82f6"/></linearGradient><radialGradient id="glow"><stop stop-color="#0ea5e9" stop-opacity=".26"/><stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/><circle cx="1040" cy="110" r="290" fill="url(#glow)"/>
+<g stroke="#1e4964" stroke-width="1" opacity=".43"><path d="M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320M0 80H1200M0 160H1200M0 240H1200"/></g>
+<rect x="60" y="64" width="7" height="191" rx="3.5" fill="url(#line)"/>
+<text x="92" y="100" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3" font-weight="bold" fill="#38bdf8">SOFTWARE DEVELOPER / ENGINEER</text>
+<text x="90" y="166" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="bold" fill="#f8fafc">DYLAN FLASHMAN</text>
+<text x="93" y="210" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#cbd5e1">Building useful software, from desktop to cloud.</text>
+<text x="93" y="254" font-family="Consolas,Monaco,monospace" font-size="17" fill="#67e8f9">C#  •  .NET  •  WPF  •  TypeScript  •  React</text>
+<g transform="translate(954 105)" stroke="url(#line)" stroke-width="11" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M-32 0L-67 31L-32 62M32 0L67 31L32 62M12 -15L-10 78"/></g>
+<rect x="1" y="1" width="1198" height="318" rx="21" fill="none" stroke="#215171" stroke-width="2"/>
+</svg>
